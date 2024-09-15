@@ -490,11 +490,12 @@ figure img {
   color: #fff;
   font: 18px var(--bold);
   text-transform: uppercase;
+  margin-right: 110px; 
 }
 
 .col-footer-1,
 .col-footer-4 {
-  width: 25%;
+  width: 40%;
 }
 
 .col-footer-2,
@@ -589,4 +590,8 @@ figure img {
 .info {
   width: 100%;
   text-align: center;
+}
+
+.ft-sua {
+  text-align: left; 
 }
